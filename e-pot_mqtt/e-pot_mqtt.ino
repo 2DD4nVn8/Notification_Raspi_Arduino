@@ -5,12 +5,12 @@
 #define LED_PIN 14
 
 //WiFi
-char ssid[] = "Makita_AP";
-char pass[] = "inouelab";
+char ssid[] = "*****";
+char pass[] = "*******";
 
 //MQTT
 char host[] = "172.29.156.107";
-char topic[] = "InouelabSmartHomes/e-pot";
+char topic[] = "****/e-pot";
 int port = 1883;
 
 //Flag
